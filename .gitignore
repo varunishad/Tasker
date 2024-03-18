@@ -1,0 +1,7 @@
+venv/
+*.db
+staticfiles/
+media/
+.vscode/
+.idea/
+*.pyc
